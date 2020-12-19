@@ -1,2 +1,2 @@
 # Bootstrap-Photography
-Bostratp Photography portfolio template
+Bootstrap Photography portfolio template
